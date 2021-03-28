@@ -1,5 +1,6 @@
 # hello-world
-Introduction to GitHub
+My introduction to GitHub.
+
 I'm brand-spanking new to coding. 
 Over the next several months I will be learning the fundamentals.
 I am very interested in coming to understand algorithms and making them myself. 
